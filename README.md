@@ -1,2 +1,2 @@
-Using Python 3 to create a project name is 
+Using Python to create a project Name- 
 Tic_Tac_Toe 
