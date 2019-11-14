@@ -1,3 +1,5 @@
+#TicTacToe Game using python
+
 import random
 
 game_input = ["Null" , 'X' , 'O' , 'X' , 'O' , 'X' , 'O' , 'X' , 'O' , 'X']
